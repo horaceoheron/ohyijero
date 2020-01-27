@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaesaefoo.webradnik.com/sitemap.xml
